@@ -1,0 +1,56 @@
+/* navbar */
+
+.navbar {
+	margin-bottom: 0;
+	border-radius: 0;
+}
+
+/* header */
+
+#header {
+	padding-bottom: 10px;
+	margin-bottom: 15px;
+	background: #333;
+	color: #fff;
+}
+
+#header .create {
+	padding-top: 25px;
+}
+
+.btn-default {
+    color: #333;
+    background-color: #fff;
+    border-color: #ccc;
+}
+
+/* progress */
+
+.dash-box{
+  text-align:center;
+}
+
+/* footer */
+
+#footer {
+	margin-top: 30px;
+	padding: 30px;
+  text-align: center;
+	background: #e95420;
+	border-color: #e95420;
+	color: #fff;
+}
+#footer p {
+	margin: 0;
+}
+
+/* text-center */
+
+.text-center {
+	text-align: center;
+}
+
+/* 弹出框 */
+.modal.in .modal-dialog {
+	z-index: 1041;
+}
